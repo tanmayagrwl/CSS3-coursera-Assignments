@@ -1,0 +1,27 @@
+header {
+    background-color: #B2BEB5;
+    text-align: center;
+    color: white;
+    text-transform: capitalize;
+}
+
+a {
+    background-color: #708090;
+    color: black;
+}
+
+h2{
+   color: #89CFF0; 
+   text-transform: capitalize;
+}
+section{
+    background-color: #848884;
+}
+
+p{
+    line-height: 150%;
+}
+
+aside.left{
+    display: none;
+}
